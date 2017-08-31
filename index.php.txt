@@ -1,0 +1,6 @@
+php header(Location PUT YOUR UGLY LONG AFFILIATE LINK HERE); 
+html
+head
+titleredirecttitle
+meta http-equiv=Content-Type content=texthtml; charset=iso-8859-1
+headbodybodyhtml
